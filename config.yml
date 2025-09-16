@@ -1,0 +1,7 @@
+# Application configuration
+# You can override DATA_DIR and RSS sources here.
+
+DATA_DIR: data
+rss_sources:
+  - https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
+  - https://hnrss.org/frontpage
